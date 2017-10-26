@@ -5,9 +5,9 @@ using namespace std;
 main() {
 	
 	
-	cout << "siema;d";
+	int a = 1;
 	
 	
 	
-	return 0;
+	return 1;
 }
